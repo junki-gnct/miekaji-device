@@ -55,6 +55,10 @@ $ sudo bluetoothctl
 $ chmod a+x startup.sh; ./startup.sh
 ```
 
+## 参考資料
+- [画像1](https://gyazo.com/0513dcdde3e5f1f949c4325b9e4e02e8)
+- [画像2](https://gyazo.com/13b4e6b2ebe4d4ba00879cde028d0e76)
+
 ## 回路図
 準備中
 
