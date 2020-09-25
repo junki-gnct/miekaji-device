@@ -60,7 +60,7 @@ $ chmod a+x startup.sh; ./startup.sh
 - [画像2](https://gyazo.com/13b4e6b2ebe4d4ba00879cde028d0e76)
 
 ## 回路図
-準備中
+[![Circuit Diagram](https://i.gyazo.com/af1956b7e4ff45ba144d9fd651b26e98.png)](https://gyazo.com/af1956b7e4ff45ba144d9fd651b26e98)
 
 ## 動作環境
 - Raspbian GNU/Linux 10.4 (with 5.4.51+ #1333 Linux Kernel)
